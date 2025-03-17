@@ -3837,7 +3837,6 @@ Map {
     "render": [Function],
   },
   "FlexGrid" => Object {
-    "$$typeof": Symbol(react.forward_ref),
     "propTypes": Object {
       "as": Object {
         "args": Array [
@@ -3868,7 +3867,6 @@ Map {
         "type": "bool",
       },
     },
-    "render": [Function],
   },
   "FluidForm" => Object {
     "propTypes": Object {
